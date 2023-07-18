@@ -1,0 +1,68 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Samsung M30",
+        "price": 250,
+        "color": "Black",
+        "storage": "64GB",
+        "availability": "In stock",
+        "image": "https://example.com/images/samsung_m30.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Apple iPhone 13",
+        "price": 999,
+        "color": "Midnight Green",
+        "storage": "128GB",
+        "availability": "Pre-order",
+        "image": "https://example.com/images/iphone_13.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Sony WH-1000XM4 Headphones",
+        "price": 349,
+        "color": "Silver",
+        "type": "Over-ear",
+        "availability": "In stock",
+        "image": "https://example.com/images/sony_wh1000xm4.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Canon EOS M50 Mark II",
+        "price": 899,
+        "color": "Black",
+        "lens": "EF-M 15-45mm f/3.5-6.3 IS STM",
+        "availability": "In stock",
+        "image": "https://example.com/images/canon_eos_m50_mark_ii.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Nike Air Zoom Pegasus 38",
+        "price": 120,
+        "color": "White/Black",
+        "size": "US 9.5",
+        "availability": "In stock",
+        "image": "https://example.com/images/nike_air_zoom_pegasus_38.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Samsung 55\" QLED 4K Smart TV",
+        "price": 1199,
+        "color": "Titan Gray",
+        "screen_size": "55 inches",
+        "availability": "In stock",
+        "image": "https://example.com/images/samsung_qled_4k_smart_tv.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Amazon Echo Dot (4th Gen)",
+        "price": 49,
+        "color": "Charcoal",
+        "connectivity": "Wi-Fi, Bluetooth",
+        "availability": "In stock",
+        "image": "https://example.com/images/amazon_echo_dot_4th_gen.jpg"
+      }
+    ]
+  }
+  
